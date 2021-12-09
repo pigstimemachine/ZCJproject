@@ -1,0 +1,11 @@
+.\output\usart.o: SYSTEM\usart\usart.c
+.\output\usart.o: .\SYSTEM\sys\sys.h
+.\output\usart.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\usart.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\usart.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\usart.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\usart.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\usart.o: SYSTEM\usart\usart.h
+.\output\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\usart.o: .\HARDWARE\TIMER\timer.h
+.\output\usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

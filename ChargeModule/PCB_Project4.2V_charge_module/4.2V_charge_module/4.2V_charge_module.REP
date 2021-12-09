@@ -1,0 +1,395 @@
+*************************************************************
+FileName = 4.2V_charge_module.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : 4.2V_charge_module.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D18
+    D19
+    D80
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : 4.2V_charge_module.GM14
+
+    Adding Layer      : Mechanical 14
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : 4.2V_charge_module.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D16
+    D18
+    D19
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : 4.2V_charge_module.GM12
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : 4.2V_charge_module.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 4.2V_charge_module.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 4.2V_charge_module.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D36
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 4.2V_charge_module.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 4.2V_charge_module.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : 4.2V_charge_module.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D19
+    D79
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 4.2V_charge_module.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D19
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 4.2V_charge_module.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D64
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 4.2V_charge_module.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 4.2V_charge_module.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 4.2V_charge_module.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D63
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 4.2V_charge_module.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : 4.2V_charge_module.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D19
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+

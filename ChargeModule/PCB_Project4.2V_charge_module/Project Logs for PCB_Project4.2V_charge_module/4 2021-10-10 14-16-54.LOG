@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VCC Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=R5-1
+Removed Pin From Net: NetName=LED5/CSET Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-1
+Removed Pin From Net: NetName=KEY/GSET/IDA1 Pin=R6-2
+Removed Pin From Net: NetName=VCC Pin=R7-1
+Removed Pin From Net: NetName=FLED/BSET/IDA2 Pin=R7-2
+Removed Pin From Net: NetName=VCC Pin=R8-1
+Removed Pin From Net: NetName=NetD6_1 Pin=R8-2
+Removed Member From Class: ClassName=Main Member=R7
+Change Component Footprint: Designator=C15 Old Footprint=CAP_0402 New Footprint=0603-CAP
+Change Component Footprint: Designator=C1 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=C2 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=C3 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=C5 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=C7 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=C14 Old Footprint=CAP_0402 New Footprint=0805C
+Change Component Footprint: Designator=D6 Old Footprint=LED_0402_GREEN New Footprint=LED0805R
+Change Component Footprint: Designator=R3 Old Footprint=RES_0402 New Footprint=0805R
+Change Component Footprint: Designator=R5 Old Footprint=RES_0402 New Footprint=0805R
+Change Component Footprint: Designator=R6 Old Footprint=RES_0402 New Footprint=0805R
+Change Component Footprint: Designator=R8 Old Footprint=RES_0402 New Footprint=0805R
+Added Component: Designator=R?(0805R)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC Pin=C15-2
+Added Pin To Net: NetName=LED5/CSET Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=KEY/GSET/IDA1 Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=NetD6_1 Pin=R8-1
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=FLED/BSET/IDA2 Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Member To Class: ClassName=Main Member=Component R? 10K

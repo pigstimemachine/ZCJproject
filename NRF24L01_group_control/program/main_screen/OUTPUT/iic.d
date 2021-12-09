@@ -1,0 +1,9 @@
+.\output\iic.o: HARDWARE\IIC\IIC.c
+.\output\iic.o: HARDWARE\IIC\IIC.h
+.\output\iic.o: .\SYSTEM\sys\sys.h
+.\output\iic.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\iic.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\iic.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\iic.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\iic.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\iic.o: .\SYSTEM\delay\delay.h

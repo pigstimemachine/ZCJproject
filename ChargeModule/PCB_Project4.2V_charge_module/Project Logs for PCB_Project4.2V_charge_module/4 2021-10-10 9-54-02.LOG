@@ -1,0 +1,189 @@
+Added Component: Designator=C1(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C6(1206-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C12(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0603-CAP)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP_0402)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_0402_BLUE)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0402_BLUE)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0402_BLUE)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_0402_BLUE)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_0402_BLUE)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_0402_GREEN)
+Add component (AddParameter): Name = "Type"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "color?"; VariantName = "[No Variations]"
+Added Component: Designator=K1(ButtonTACT_3.5*3.55_90)
+Add component (AddParameter): Name = "type"; Value = "TACT 4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "3.4x3.5"; VariantName = "[No Variations]"
+Added Component: Designator=P1(USB-Short)
+Added Component: Designator=R1(1206-RES)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805-L)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0402)
+Add component (AddParameter): Name = "Value"; Value = "22R"; VariantName = "[No Variations]"
+Added Component: Designator=T2(TEST_PT)
+Added Component: Designator=T3(TEST_PT)
+Added Component: Designator=T4(TEST_PT)
+Added Component: Designator=USB1(Type-C-TOP)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=CC1 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=CC2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=CCL/WLED Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VBUS_A1 Pin=C4-2
+Added Pin To Net: NetName=VOUT Pin=C5-1
+Added Pin To Net: NetName=VOUT_A1 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=B+ Pin=C6-2
+Added Pin To Net: NetName=SW Pin=C7-1
+Added Pin To Net: NetName=BST Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VOUT Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VOUT Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VOUT Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VOUT_A1 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VBUS_A2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VBUS_C Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=B- Pin=C14-2
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=LED2/SDA Pin=D1-1
+Added Pin To Net: NetName=LED1/SCL Pin=D1-2
+Added Pin To Net: NetName=LED1/SCL Pin=D2-1
+Added Pin To Net: NetName=LED2/SDA Pin=D2-2
+Added Pin To Net: NetName=LED3/IRQ Pin=D3-1
+Added Pin To Net: NetName=LED1/SCL Pin=D3-2
+Added Pin To Net: NetName=LED1/SCL Pin=D4-1
+Added Pin To Net: NetName=LED3/IRQ Pin=D4-2
+Added Pin To Net: NetName=LED4/I2C Pin=D5-1
+Added Pin To Net: NetName=LED1/SCL Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=FLED/BSET/IDA2 Pin=D6-2
+Added Pin To Net: NetName=GND Pin=K1-1
+Added Pin To Net: NetName=KEY/GSET/IDA1 Pin=K1-2
+Added Pin To Net: NetName=GND Pin=K1-3
+Added Pin To Net: NetName=KEY/GSET/IDA1 Pin=K1-4
+Added Pin To Net: NetName=VBUS_A1 Pin=P1-1
+Added Pin To Net: NetName=DMA1 Pin=P1-2
+Added Pin To Net: NetName=DPA1 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=VOUT Pin=R1-1
+Added Pin To Net: NetName=VOUT_A1 Pin=R1-2
+Added Pin To Net: NetName=NetC14_1 Pin=R3-1
+Added Pin To Net: NetName=B+ Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=LED5/CSET Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=KEY/GSET/IDA1 Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-1
+Added Pin To Net: NetName=FLED/BSET/IDA2 Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R8-1
+Added Pin To Net: NetName=NetD6_1 Pin=R8-2
+Added Pin To Net: NetName=VBUS_A1 Pin=T2-0
+Added Pin To Net: NetName=VBUS_A2 Pin=T3-0
+Added Pin To Net: NetName=VBUS_C Pin=T4-0
+Added Pin To Net: NetName=GND Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-2
+Added Pin To Net: NetName=GND Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=VBUS_C Pin=USB1-A4
+Added Pin To Net: NetName=CC1 Pin=USB1-A5
+Added Pin To Net: NetName=DPC Pin=USB1-A6
+Added Pin To Net: NetName=DMC Pin=USB1-A7
+Added Pin To Net: NetName=VBUS_C Pin=USB1-A9
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=VBUS_C Pin=USB1-B4
+Added Pin To Net: NetName=CC2 Pin=USB1-B5
+Added Pin To Net: NetName=DPC Pin=USB1-B6
+Added Pin To Net: NetName=DMC Pin=USB1-B7
+Added Pin To Net: NetName=VBUS_C Pin=USB1-B9
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Member To Class: ClassName=Main Member=Component C1 300pF
+Added Member To Class: ClassName=Main Member=Component C2 300pF
+Added Member To Class: ClassName=Main Member=Component C3 300pF
+Added Member To Class: ClassName=Main Member=Component C4 10uF
+Added Member To Class: ClassName=Main Member=Component C5 0.1uF
+Added Member To Class: ClassName=Main Member=Component C6 100uF/16V
+Added Member To Class: ClassName=Main Member=Component C7 0.1uF
+Added Member To Class: ClassName=Main Member=Component C8 10uF
+Added Member To Class: ClassName=Main Member=Component C9 10uF
+Added Member To Class: ClassName=Main Member=Component C10 10uF
+Added Member To Class: ClassName=Main Member=Component C11 10uF
+Added Member To Class: ClassName=Main Member=Component C12 10uF
+Added Member To Class: ClassName=Main Member=Component C13 10uF
+Added Member To Class: ClassName=Main Member=Component C14 0.1uF
+Added Member To Class: ClassName=Main Member=Component C15 10uF
+Added Member To Class: ClassName=Main Member=Component D1 color?
+Added Member To Class: ClassName=Main Member=Component D2 color?
+Added Member To Class: ClassName=Main Member=Component D3 color?
+Added Member To Class: ClassName=Main Member=Component D4 color?
+Added Member To Class: ClassName=Main Member=Component D5 color?
+Added Member To Class: ClassName=Main Member=Component D6 color?
+Added Member To Class: ClassName=Main Member=Component K1 TACT 4P
+Added Member To Class: ClassName=Main Member=Component P1 USB-A
+Added Member To Class: ClassName=Main Member=Component R1 5mR
+Added Member To Class: ClassName=Main Member=Component R3 1K
+Added Member To Class: ClassName=Main Member=Component R4 NTC
+Added Member To Class: ClassName=Main Member=Component R5 20K
+Added Member To Class: ClassName=Main Member=Component R6 10K
+Added Member To Class: ClassName=Main Member=Component R7 10K
+Added Member To Class: ClassName=Main Member=Component R8 2K
+Added Member To Class: ClassName=Main Member=Component T2 ≤‚ ‘µ„
+Added Member To Class: ClassName=Main Member=Component T3 ≤‚ ‘µ„
+Added Member To Class: ClassName=Main Member=Component T4 ≤‚ ‘µ„
+Added Member To Class: ClassName=Main Member=Component USB1 Type-C

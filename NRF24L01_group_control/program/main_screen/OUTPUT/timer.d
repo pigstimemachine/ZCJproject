@@ -1,0 +1,11 @@
+.\output\timer.o: HARDWARE\TIMER\timer.c
+.\output\timer.o: HARDWARE\TIMER\timer.h
+.\output\timer.o: .\SYSTEM\sys\sys.h
+.\output\timer.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\timer.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\timer.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\timer.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\timer.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\timer.o: .\SYSTEM\usart\usart.h
+.\output\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\timer.o: .\USER\TaskMgr\TaskMgr.h

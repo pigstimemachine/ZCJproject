@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Q:\XG20200921\ZCJ_development\ChargeModule\PCB_Project4.2V_charge_module\4.2V_charge_module.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=4.2v_charge_module-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=4.2v_charge_module-slotholes.txt|DrillLayers=gtl,gbl

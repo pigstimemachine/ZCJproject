@@ -1,0 +1,13 @@
+Source PCB Design 4.2v_charge_module_2X2.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Pick Place for 4.2v_charge_module_2X2.txt]
+   Generated File[Pick Place for 4.2v_charge_module_2X2.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:47:11 On 2021/10/11

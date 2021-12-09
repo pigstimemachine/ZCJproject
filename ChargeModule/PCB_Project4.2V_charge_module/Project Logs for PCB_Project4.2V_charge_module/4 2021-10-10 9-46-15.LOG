@@ -1,0 +1,30 @@
+Added Component: Designator=L1(IND_1040)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SRR1240-4R7Y/Bourns/view-part/1646614/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SRR1240-4R7Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SRR1240-4R7Y/Bourns/view-part/1646614/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(SO-8-PAD)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NE5532D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NE5532D/Texas%20Instruments/view-part/4299479/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B+ Pin=L1-1
+Added Pin To Net: NetName=SW Pin=L1-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=B- Pin=U5-5
+Added Pin To Net: NetName=NetC14_1 Pin=U5-6
+Added Pin To Net: NetName=B- Pin=U5-7
+Added Pin To Net: NetName=B- Pin=U5-8
+Added Pin To Net: NetName=B- Pin=U5-9
+Added Member To Class: ClassName=Main Member=Component L1 2.2uH
+Added Member To Class: ClassName=Main Member=Component U5 XB8886A

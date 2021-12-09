@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Pick Place for 4.2V_charge_module.txt]
+   Generated File[Pick Place for 4.2V_charge_module.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 13:57:46 On 2021/10/11

@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+Q:\XG20200921\ZCJ_development\ChargeModule\PCB_Project4.2V_charge_module\Pick Place for 4.2V_charge_module.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/10/21
+Time:       13:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment   Layer    Footprint              Center-X(mm) Center-Y(mm) Rotation Description                          
+T2         ≤‚ ‘µ„       TopLayer TEST_PT                17.3736mm    5.0000mm     0        ""                                   
+R7         10K       TopLayer 0805R                  35.5600mm    23.1186mm    270      Resistor                             
+USB1       Type-C    TopLayer Type-C-TOP             10.1530mm    5.6950mm     270      ""                                   
+T4         ≤‚ ‘µ„       TopLayer TEST_PT                17.3736mm    9.0000mm     0        ""                                   
+T3         ≤‚ ‘µ„       TopLayer TEST_PT                17.3736mm    11.0000mm    0        ""                                   
+R8         2K        TopLayer 0805R                  33.4010mm    23.1186mm    270      Resistor                             
+R6         10K       TopLayer 0805R                  29.3370mm    23.1186mm    270      Resistor                             
+R5         20K       TopLayer 0805R                  37.7190mm    23.1186mm    270      Resistor                             
+R4         NTC       TopLayer 0805-L                 25.6540mm    23.1140mm    90       Resistor                             
+R3         1K        TopLayer 0805R                  20.9550mm    39.7510mm    90       Resistor                             
+R1         5mR       TopLayer 1206-RES               21.8440mm    31.4649mm    90       Resistor                             
+P1         USB-A     TopLayer USB-Short              28.9560mm    6.6250mm     270      ""                                   
+K1         "TACT 4P" TopLayer ButtonTACT_3.5*3.55_90 33.9090mm    16.5100mm    180      Button                               
+D6         color?    TopLayer LED0805R               31.3690mm    23.1186mm    90       LED                                  
+D5         color?    TopLayer LED0805R               34.2900mm    31.3580mm    90       LED                                  
+D4         color?    TopLayer LED0805R               32.3850mm    31.5580mm    270      LED                                  
+D3         color?    TopLayer LED0805R               30.4800mm    31.3580mm    90       LED                                  
+D2         color?    TopLayer LED0805R               28.5750mm    31.5580mm    270      LED                                  
+D1         color?    TopLayer LED0805R               26.6700mm    31.3580mm    90       LED                                  
+C15        10uF      TopLayer 0603-CAP               27.4320mm    23.1140mm    90       Capacitor                            
+C14        0.1uF     TopLayer 0805C                  24.3840mm    39.7510mm    90       Capacitor                            
+C13        10uF      TopLayer 0603-CAP               10.7950mm    16.6370mm    270      Capacitor                            
+C12        10uF      TopLayer 0603-CAP               18.9230mm    16.6370mm    270      Capacitor                            
+C11        10uF      TopLayer 0603-CAP               19.8120mm    31.4960mm    270      Capacitor                            
+C10        10uF      TopLayer 0603-CAP               18.6690mm    31.4960mm    270      Capacitor                            
+C9         10uF      TopLayer 0603-CAP               17.5260mm    31.4960mm    270      Capacitor                            
+C8         10uF      TopLayer 0603-CAP               16.3830mm    31.4960mm    270      Capacitor                            
+C7         0.1uF     TopLayer 0805C                  7.6200mm     28.7020mm    360      Capacitor                            
+C6         100uF/16V TopLayer 1206-CAP               18.7960mm    39.7544mm    90       Capacitor                            
+C5         0.1uF     TopLayer 0805C                  24.0030mm    31.4960mm    90       Capacitor                            
+C4         10uF      TopLayer 0603-CAP               27.3050mm    16.6370mm    270      Capacitor                            
+C3         300pF     TopLayer 0805C                  7.6040mm     26.2890mm    0        Capacitor                            
+C2         300pF     TopLayer 0805C                  7.6040mm     24.2570mm    0        Capacitor                            
+C1         300pF     TopLayer 0805C                  7.6040mm     22.2250mm    0        Capacitor                            
+T1         ≤‚ ‘µ„       TopLayer TEST_PT                17.3736mm    7.0000mm     0        ""                                   
+U5         XB8886A   TopLayer SO-8-PAD               30.2260mm    39.8780mm    180      ""                                   
+L1         2.2uH     TopLayer IND_1040               9.7790mm     38.4683mm    180      "Fixed Inductors 4.7uH 30% SMD 1240" 
+U4         UT8205A   TopLayer SOT23-6                8.3820mm     16.6370mm    90       ""                                   
+U3         UT8205A   TopLayer SOT23-6                16.5100mm    16.6370mm    90       ""                                   
+U2         SW6208    TopLayer QFN-48_6x6             18.1610mm    25.4000mm    90       ≥‰µÁ±¶–æ∆¨                                
+U1         UT8205A   TopLayer SOT23-6                25.0190mm    16.6370mm    90       ""                                   

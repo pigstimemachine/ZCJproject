@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : Q:\XG20200921\ZCJ_development\ChargeModule\PCB_Project4.2V_charge_module\4.2v_charge_module_2X2.PcbDoc
+Date         : 2021/10/11
+Time         : 13:19:59
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, NAN%
+    Connections, 0
+    Connections routed, 0
+    Connections remaining, 0
+count : 4

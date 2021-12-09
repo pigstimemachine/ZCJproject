@@ -1,0 +1,11 @@
+.\output\stmflash.o: HARDWARE\FLASH\stmflash.c
+.\output\stmflash.o: HARDWARE\FLASH\stmflash.h
+.\output\stmflash.o: .\SYSTEM\sys\sys.h
+.\output\stmflash.o: .\SYSTEM\sys\stm32f10x_map.h
+.\output\stmflash.o: .\SYSTEM\sys\stm32f10x_conf.h
+.\output\stmflash.o: .\SYSTEM\sys\stm32f10x_type.h
+.\output\stmflash.o: .\SYSTEM\sys\cortexm3_macro.h
+.\output\stmflash.o: .\SYSTEM\sys\stm32f10x_nvic.h
+.\output\stmflash.o: .\SYSTEM\delay\delay.h
+.\output\stmflash.o: .\SYSTEM\usart\usart.h
+.\output\stmflash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
